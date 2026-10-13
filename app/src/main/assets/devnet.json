@@ -1,0 +1,15 @@
+{
+  "network": "devnet",
+  "rpcUrl": "https://api.devnet.solana.com",
+  "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+  "asset": { "mint": "4s6BJseWdLKP1izeqxPs2PuQ2ogYcDMybPp6j8Piuioz", "symbol": "tUSD", "name": "Tegami test dollar (devnet, no value)", "decimals": 6 },
+  "registry": {
+    "name": "Tegami devnet registry",
+    "basis": "Bundled with this build. Devnet test payers created by scripts/devnet_setup.sh; no KYB was performed.",
+    "payers": [
+      { "address": "FajbKPcFK4KYyP1tGVUcAvRvkACAz9AMZJAUXzqLTbRy", "name": "Kumo Studio (test payer)" },
+      { "address": "GToXmQEJL254ohq2xF8xaM4gAMmxdossQ1BezG3C6v8P", "name": "Hoshi Agency (test payer)" }
+    ]
+  },
+  "demoRecipient": "CKLzXqa2a15yYhnnEac4DNz9pwqwWWLynUNGg1ng8Yk3"
+}
