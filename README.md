@@ -1,6 +1,6 @@
 # Tegami ✉️
 
-### Every payment, sealed...
+### Every payment, sealed
 **Private amount. Proven-clean source. A personal agent that defends it.**
 
 Tegami (手紙, Japanese for "letter") turns every stablecoin payment into a **sealed letter**. The amount is hidden from the public, a zero-knowledge seal proves the money came from a verified source, and a personal AI agent called **Guardian** uses that proof to keep the recipient's money safe and working: income proofs, protection against frozen accounts, and credit earned from a clean payment history.
